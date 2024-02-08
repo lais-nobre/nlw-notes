@@ -1,4 +1,3 @@
-![Cover](./.github/cover.png)
 
 # NLW Expert (React)
 
@@ -12,5 +11,3 @@ Após clonar o repositório, acesse a pasta do projeto e execute os comandos aba
 npm install
 npm run dev
 ```
-
-Acesse http://localhost:5173 para visualizar a aplicação.
